@@ -1,0 +1,37 @@
+.productCardContainer{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid silver;
+}
+
+.product{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+}
+
+.itmQuantity{
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    margin: 5px;
+}
+
+.btnRemove{
+    padding: 3px;
+    margin: 5px;
+    margin-right: 10px;
+    color: lightcoral;
+    height: 30px;
+    width: 40px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: .3s all ease-in-out;
+}
+.btnRemove:hover{
+    border: 1px solid rgb(255, 255, 255);
+    transform: scale(1.2);
+}

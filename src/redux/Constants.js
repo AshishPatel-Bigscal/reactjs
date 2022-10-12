@@ -1,0 +1,9 @@
+export const GET_PRODUCTS_DATA = 'GET_PRODUCTS_DATA';
+export const GET_PRODUCTS_DATA_BY_SEARCH = 'GET_PRODUCTS_DATA_BY_SAERCH';
+export const GET_CART_DATA = 'GET_CART_DATA';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const UPDATE_ITEM_QTY = 'UPDATE_ITEM_QTY'
+export const CLEAR_CART = 'CLEAR_CART';
+export const BASE_URL = "http://localhost:4000/cart";
+export const PRODUCTS_BASE_URL = "http://localhost:4000/products";

@@ -1,0 +1,156 @@
+{
+  "cart": [
+    {
+      "id": 2,
+      "type": "Speaker",
+      "brand": "sony",
+      "model": "sr 790Z",
+      "quantity": 1,
+      "price": "30000"
+    },
+    {
+      "id": 3,
+      "type": "tv",
+      "brand": "sony",
+      "model": "Bravia32",
+      "quantity": 1,
+      "price": "50000"
+    },
+    {
+      "id": 4,
+      "type": "laptop",
+      "brand": "asus",
+      "model": "LPX-i5-16GBD5",
+      "quantity": 1,
+      "price": "100000"
+    },
+    {
+      "id": 8,
+      "type": "RAM",
+      "brand": "Corsair",
+      "model": "8GB XL d3-1600Mhz",
+      "quantity": 1,
+      "price": "3000"
+    },
+    {
+      "id": 7,
+      "type": "SSD",
+      "brand": "Samsung",
+      "model": "980 Pro 1 gb",
+      "quantity": 1,
+      "price": "10000"
+    },
+    {
+      "id": 6,
+      "type": "HDD",
+      "brand": "WD",
+      "model": "black 1 tb",
+      "quantity": 1,
+      "price": "3000"
+    },
+    {
+      "id": 5,
+      "type": "mobile",
+      "brand": "oppo",
+      "model": "a53s",
+      "quantity": 1,
+      "price": "15000"
+    },
+    {
+      "id": 9,
+      "type": "RAM",
+      "brand": "G Skill",
+      "model": "4GB XL d3-1600Mhz",
+      "quantity": 1,
+      "price": "2000"
+    },
+    {
+      "id": 10,
+      "type": "SSD",
+      "brand": "WD",
+      "model": "Black 1tb NVME Pci e 5.0",
+      "quantity": 1,
+      "price": "8000"
+    },
+    {
+      "id": 1,
+      "type": "Fridge",
+      "brand": "LG",
+      "model": "LG 350L",
+      "quantity": 1,
+      "price": "20000"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "type": "Fridge",
+      "brand": "LG",
+      "model": "LG 350L",
+      "price": "20000"
+    },
+    {
+      "id": 2,
+      "type": "Speaker",
+      "brand": "sony",
+      "model": "sr 790Z",
+      "price": "30000"
+    },
+    {
+      "id": 3,
+      "type": "tv",
+      "brand": "sony",
+      "model": "Bravia32",
+      "price": "50000"
+    },
+    {
+      "id": 4,
+      "type": "laptop",
+      "brand": "asus",
+      "model": "LPX-i5-16GBD5",
+      "price": "100000"
+    },
+    {
+      "id": 5,
+      "type": "mobile",
+      "brand": "oppo",
+      "model": "a53s",
+      "price": "15000"
+    },
+    {
+      "id": 6,
+      "type": "HDD",
+      "brand": "WD",
+      "model": "black 1 tb",
+      "price": "3000"
+    },
+    {
+      "id": 7,
+      "type": "SSD",
+      "brand": "Samsung",
+      "model": "980 Pro 1 gb",
+      "price": "10000"
+    },
+    {
+      "id": 8,
+      "type": "RAM",
+      "brand": "Corsair",
+      "model": "8GB XL d3-1600Mhz",
+      "price": "3000"
+    },
+    {
+      "id": 9,
+      "type": "RAM",
+      "brand": "G Skill",
+      "model": "4GB XL d3-1600Mhz",
+      "price": "2000"
+    },
+    {
+      "id": 10,
+      "type": "SSD",
+      "brand": "WD",
+      "model": "Black 1tb NVME Pci e 5.0",
+      "price": "8000"
+    }
+  ]
+}
